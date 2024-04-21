@@ -50,10 +50,11 @@ Download all the installaton files before osTicket is up and running.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="769" alt="image" src="https://github.com/drizzleman/osticket-prereqs/assets/166667455/db11c6fe-a085-4714-a3f8-0106360d30cb">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open Internet Information Services (IIS) to begin the installation process of the vm-osticket.
 </p>
 <br />
 <p>
