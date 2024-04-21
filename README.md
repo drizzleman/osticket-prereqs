@@ -33,10 +33,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="585" alt="image" src="https://github.com/drizzleman/osticket-prereqs/assets/166667455/bff4fcd3-99b7-4a85-adb7-4d3de525a146">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right click the start and then select run, type control and go to turn windows features on or off. Check internet information services and click world wide web services. Select applications development features and check CGI. Next select common HTTP features, HTTP reirections, and push OK .
 </p>
 <br />
 
