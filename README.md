@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1-Download php
+- Item 2- Download rewrite module
+- Item 3- Download vc_redistx86.exe
+- Item 4- Download my SQL 5.5.62
+- Item 5- Download osTicket
+- Item 6- Download Heid SQL
 
 
 <h2>Installation Steps</h2>
