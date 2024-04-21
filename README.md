@@ -63,6 +63,6 @@ Open Internet Information Services (IIS) to begin the installation process of th
 </p>
 
 <p>
-This is what you should see on web browers if osTicket was installed correctly.
+This is what you should see on your web brower if osTicket was installed correctly.
 </p>
 <br />
